@@ -39,3 +39,27 @@ If you want to instead make a github repo and just send us a link to it, that's 
 Have fun!
 
 ![UI Suggested Wireframe](ui_suggestion.png)# PayPayAssessment
+
+# Project designing
+
+MVVM pattern can adopt for feature module posts and comments, also giving the provision to developers to opt for any type of patterns, like MVVM, MVP, Viper, MVC, etc.
+
+It shows how to split an app in logical vertical slices, how to handle in-feature and across feature navigation (using navigation components), how each module can be tested and how to organize dependencies and build.gradle files. 
+
+![Modularized architecture](https://github.com/anandmampuzhakal/CucumberTest/blob/main/readme/modularized_architecture.png)
+
+Note that all code runs and executes, but the screens only contain data in xml preview. This means running the app provides a very "empty experience", but it also keeps the example simple and focused.
+
+# Features 
+This Module is intent to provide a template with basic MVVM architecture framework with task 
+![MVVM pattern](https://github.com/anandmampuzhakal/CucumberTest/blob/main/readme/mvvmpattern.png)
+
+Advantages:
+
+- Simple, easy to read
+- Use few libs, save time for gradle syncing
+- No dagger or any other DI lib
+
+## MVVM
+Usually, a viwemodel can only aware the destroy of its owner in onClear() method. But after making it implements LifecycleObserver and observing owner's lifecycle in ViewModelProvider.Factory. It can use onCreate() or other lifecycle event now.
+Check these codes in MVVMViewModelFactory.kt

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                 
+                           
+                                                                                   
+           
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        app:cardElevation="2dp"
+        app:contentPaddingTop="8dp"
+        app:contentPaddingLeft="8dp"
+        app:contentPaddingRight="8dp"
+        app:contentPaddingBottom="0dp" android:tag="layout/item_currency_card_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/flag"
+                android:layout_width="24dp"
+                android:layout_height="16dp"
+                android:tag="binding_1"           
+                app:layout_constraintBottom_toBottomOf="@id/currencyCodeTextView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/currencyCodeTextView"
+                tools:ignore="ContentDescription"
+                tools:src="@drawable/_inr" />
+
+            <TextView
+                android:id="@+id/currencyCodeTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginLeft="12dp"
+                android:tag="binding_2"        
+                android:textSize="20sp"
+                app:layout_constraintBottom_toTopOf="@id/line"
+                app:layout_constraintStart_toEndOf="@id/flag"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="INR" />
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#EDF1F8"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.40" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:tag="binding_3"                          
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
+                android:textColor="@android:color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/line"
+                tools:text="20,000" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+         

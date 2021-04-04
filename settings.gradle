@@ -1,0 +1,8 @@
+include ':features:currencyconveter:mvvmlibrary'
+include ':libraries:network'
+include ':app'
+include ':features:currencyconveter'
+include ':features:dashboard'
+include ':features:sharing'
+include ':libraries:ui-components'
+include ':libraries:actions'

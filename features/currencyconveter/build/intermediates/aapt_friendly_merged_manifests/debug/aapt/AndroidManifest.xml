@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="modularization.features.currencyconveter" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="modularization.features.currencyconveter.PayPayApplication"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/network_security_config" />
+
+        <activity android:name="modularization.features.currencyconveter.ui.MainActivity" >
+            <intent-filter>
+                <action android:name="com.nz.anand.modularization.currencyconveter.open" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

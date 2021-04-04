@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PayPayAssessment.iml" filepath="$PROJECT_DIR$/.idea/PayPayAssessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PayPayAssessment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PayPayAssessment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PayPayAssessment.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/PayPayAssessment.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/PayPayAssessment.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/PayPayAssessment.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/currencyconveter/PayPayAssessment.features.currencyconveter.iml" filepath="$PROJECT_DIR$/.idea/modules/features/currencyconveter/PayPayAssessment.features.currencyconveter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/currencyconveter/mvvmlibrary/PayPayAssessment.features.currencyconveter.mvvmlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/features/currencyconveter/mvvmlibrary/PayPayAssessment.features.currencyconveter.mvvmlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/dashboard/PayPayAssessment.features.dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/features/dashboard/PayPayAssessment.features.dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/sharing/PayPayAssessment.features.sharing.iml" filepath="$PROJECT_DIR$/.idea/modules/features/sharing/PayPayAssessment.features.sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/PayPayAssessment.libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/PayPayAssessment.libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/actions/PayPayAssessment.libraries.actions.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/actions/PayPayAssessment.libraries.actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/network/PayPayAssessment.libraries.network.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/network/PayPayAssessment.libraries.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/ui-components/PayPayAssessment.libraries.ui-components.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/ui-components/PayPayAssessment.libraries.ui-components.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,68 @@
+modularization/features/currencyconveter/data/room/AppDatabase_Impl.java
+ modularization.features.currencyconveter.data.room.AppDatabase_Impl
+ modularization.features.currencyconveter.data.room.AppDatabase_Impl$1
+modularization/features/currencyconveter/DataBinderMapperImpl.java
+ modularization.features.currencyconveter.DataBinderMapperImpl
+ modularization.features.currencyconveter.DataBinderMapperImpl$InnerBrLookup
+ modularization.features.currencyconveter.DataBinderMapperImpl$InnerLayoutIdLookup
+modularization/features/currencyconveter/databinding/MainFragmentBindingImpl.java
+ modularization.features.currencyconveter.databinding.MainFragmentBindingImpl
+ modularization.features.currencyconveter.databinding.MainFragmentBindingImpl$1
+modularization/features/currencyconveter/ui/home/HomeViewModel_Factory.java
+ modularization.features.currencyconveter.ui.home.HomeViewModel_Factory
+modularization/features/currencyconveter/databinding/ItemSpinnerCurrencyBinding.java
+ modularization.features.currencyconveter.databinding.ItemSpinnerCurrencyBinding
+modularization/features/currencyconveter/databinding/MainFragmentBinding.java
+ modularization.features.currencyconveter.databinding.MainFragmentBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/nz/anand/network/BR.java
+ com.nz.anand.network.BR
+modularization/features/currencyconveter/di/modules/RoomModule_ProvidesRateDaoFactory.java
+ modularization.features.currencyconveter.di.modules.RoomModule_ProvidesRateDaoFactory
+com/nz/anand/mvvmlibrary/BR.java
+ com.nz.anand.mvvmlibrary.BR
+com/nz/anand/paypaytechnicalassessment/libraries/actions/BR.java
+ com.nz.anand.paypaytechnicalassessment.libraries.actions.BR
+modularization/features/currencyconveter/di/modules/RoomModule_ProvidesRoomDatabaseFactory.java
+ modularization.features.currencyconveter.di.modules.RoomModule_ProvidesRoomDatabaseFactory
+modularization/features/currencyconveter/BR.java
+ modularization.features.currencyconveter.BR
+modularization/features/currencyconveter/data/room/RateDao_Impl.java
+ modularization.features.currencyconveter.data.room.RateDao_Impl
+ modularization.features.currencyconveter.data.room.RateDao_Impl$1
+ modularization.features.currencyconveter.data.room.RateDao_Impl$2
+ modularization.features.currencyconveter.data.room.RateDao_Impl$3
+modularization/features/currencyconveter/ui/home/HomeFragment_MembersInjector.java
+ modularization.features.currencyconveter.ui.home.HomeFragment_MembersInjector
+modularization/features/currencyconveter/di/modules/ApiModule_ProvideCurrencyServiceFactory.java
+ modularization.features.currencyconveter.di.modules.ApiModule_ProvideCurrencyServiceFactory
+modularization/features/currencyconveter/databinding/ItemCurrencyCardBinding.java
+ modularization.features.currencyconveter.databinding.ItemCurrencyCardBinding
+modularization/features/currencyconveter/di/modules/SharedPreferencesModule_ProvidesSharedPreferencesFactory.java
+ modularization.features.currencyconveter.di.modules.SharedPreferencesModule_ProvidesSharedPreferencesFactory
+modularization/features/currencyconveter/ui/ViewModelFactory_Factory.java
+ modularization.features.currencyconveter.ui.ViewModelFactory_Factory
+modularization/features/currencyconveter/BuildConfig.java
+ modularization.features.currencyconveter.BuildConfig
+modularization/features/currencyconveter/databinding/ItemCurrencyCardBindingImpl.java
+ modularization.features.currencyconveter.databinding.ItemCurrencyCardBindingImpl
+modularization/features/currencyconveter/databinding/MainActivityBinding.java
+ modularization.features.currencyconveter.databinding.MainActivityBinding
+modularization/ui_components/BR.java
+ modularization.ui_components.BR
+modularization/features/currencyconveter/databinding/ItemSpinnerCurrencyBindingImpl.java
+ modularization.features.currencyconveter.databinding.ItemSpinnerCurrencyBindingImpl
+modularization/features/currencyconveter/DataBindingTriggerClass.java
+ modularization.features.currencyconveter.DataBindingTriggerClass
+modularization/features/currencyconveter/di/components/DaggerAppComponent.java
+ modularization.features.currencyconveter.di.components.DaggerAppComponent
+ modularization.features.currencyconveter.di.components.DaggerAppComponent$1
+ modularization.features.currencyconveter.di.components.DaggerAppComponent$Builder
+modularization/features/currencyconveter/data/repositories/Repository_Factory.java
+ modularization.features.currencyconveter.data.repositories.Repository_Factory
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+modularization/features/currencyconveter/di/modules/ApiModule_ProvideRetrofitFactory.java
+ modularization.features.currencyconveter.di.modules.ApiModule_ProvideRetrofitFactory
+ modularization.features.currencyconveter.di.modules.ApiModule_ProvideRetrofitFactory$InstanceHolder

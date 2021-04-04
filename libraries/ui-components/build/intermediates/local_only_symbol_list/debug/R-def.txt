@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color divider
+color icons
+color primary_light
+color primary_text
+color secondary_text
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+string action_sign_in
+string action_sign_in_short
+string app_name
+string invalid_password
+string invalid_username
+string login_failed
+string prompt_email
+string prompt_password
+string welcome
+style AppTheme

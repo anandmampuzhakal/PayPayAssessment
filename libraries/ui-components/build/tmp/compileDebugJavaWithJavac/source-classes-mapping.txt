@@ -1,0 +1,4 @@
+modularization/ui_components/DataBindingTriggerClass.java
+ modularization.ui_components.DataBindingTriggerClass
+modularization/ui_components/BuildConfig.java
+ modularization.ui_components.BuildConfig

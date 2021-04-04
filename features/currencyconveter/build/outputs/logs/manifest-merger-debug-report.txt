@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:8:5-23:19
+	android:theme
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:10:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:9:9-42
+meta-data#com.google.android.actions
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:12:9-14:63
+	android:resource
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:14:13-60
+	android:name
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:13:13-54
+activity#modularization.features.currencyconveter.ui.MainActivity
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:16:19-50
+intent-filter#action:name:com.nz.anand.modularization.currencyconveter.open+category:name:android.intent.category.DEFAULT
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:17:13-21:29
+action#com.nz.anand.modularization.currencyconveter.open
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:18:17-92
+	android:name
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:18:25-89
+category#android.intent.category.DEFAULT
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:20:27-73
+uses-sdk
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml

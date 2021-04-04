@@ -1,0 +1,26 @@
+modularization/features/currencyconveter/test/BuildConfig.java
+ modularization.features.currencyconveter.test.BuildConfig
+modularization/features/currencyconveter/test/DataBindingTriggerClass.java
+ modularization.features.currencyconveter.test.DataBindingTriggerClass
+modularization/ui_components/BR.java
+ modularization.ui_components.BR
+com/nz/anand/paypaytechnicalassessment/libraries/actions/BR.java
+ com.nz.anand.paypaytechnicalassessment.libraries.actions.BR
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+modularization/features/currencyconveter/test/DataBinderMapperImpl.java
+ modularization.features.currencyconveter.test.DataBinderMapperImpl
+ modularization.features.currencyconveter.test.DataBinderMapperImpl$InnerBrLookup
+ modularization.features.currencyconveter.test.DataBinderMapperImpl$InnerLayoutIdLookup
+modularization/features/currencyconveter/BR.java
+ modularization.features.currencyconveter.BR
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+modularization/features/currencyconveter/test/BR.java
+ modularization.features.currencyconveter.test.BR
+com/nz/anand/network/BR.java
+ com.nz.anand.network.BR
+com/nz/anand/mvvmlibrary/BR.java
+ com.nz.anand.mvvmlibrary.BR

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml:1:1-2:46
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml:1:1-2:46
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml:1:1-2:46
+	package
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+		ADDED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml
+		INJECTED from /Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/libraries/ui-components/src/main/AndroidManifest.xml

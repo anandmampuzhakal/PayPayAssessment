@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="modularization.features.currencyconveter" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+6-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="28" />
+7-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+9-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:5:5-79
+9-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:5:22-76
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:6:5-67
+10-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:6:22-64
+11
+12    <application
+12-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:8:5-23:19
+13        android:name="modularization.features.currencyconveter.PayPayApplication"
+13-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:9:9-42
+14        android:theme="@style/AppTheme"
+14-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:10:9-40
+15        android:usesCleartextTraffic="true" >
+15-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:11:9-44
+16        <meta-data
+16-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:12:9-14:63
+17            android:name="com.google.android.actions"
+17-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:13:13-54
+18            android:resource="@xml/network_security_config" />
+18-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:14:13-60
+19
+20        <activity android:name="modularization.features.currencyconveter.ui.MainActivity" >
+20-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:16:9-22:20
+20-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:16:19-50
+21            <intent-filter>
+21-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:17:13-21:29
+22                <action android:name="com.nz.anand.modularization.currencyconveter.open" />
+22-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:18:17-92
+22-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:18:25-89
+23
+24                <category android:name="android.intent.category.DEFAULT" />
+24-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:20:17-76
+24-->/Users/anandmjoseph/AndroidStudioProjects/PayPayAssessment/features/currencyconveter/src/main/AndroidManifest.xml:20:27-73
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
